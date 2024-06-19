@@ -3,13 +3,14 @@
 int main()
 {
     int a, b;
-    printf("enter a number you want multiplication of");
+    printf("enter a number you want multiplication of: ");
     scanf("%d", &a);
 
     printf("%dx1=%d\n", a, a * 1);
     printf("%dx2=%d\n", a, a * 2);
     printf("%dx3=%d\n", a, a * 3);
     printf("%dx4=%d\n", a, a * 4);
+    
     printf("%dx5=%d\n", a, a * 5);
     printf("%dx6=%d\n", a, a * 6);
     printf("%dx7=%d\n", a, a * 7);

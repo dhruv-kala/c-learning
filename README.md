@@ -1,6 +1,6 @@
 # c-learning
 C Learning 
-##[Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
+##[Using GCC with MinGW](https://code.visualstudio.com/docs/nfig-mingw)cpp/co
 
 
 
